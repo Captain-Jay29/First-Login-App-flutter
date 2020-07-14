@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042378229871",
+    "firebase_url": "https://art-of-living-proj.firebaseio.com",
+    "project_id": "art-of-living-proj",
+    "storage_bucket": "art-of-living-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042378229871:android:b4b0c35d3ebf95d7cd259a",
+        "android_client_info": {
+          "package_name": "com.Jay_Mehta.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042378229871-asfdkucnjis84o5hah4utnkrfm5gdcmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Jay_Mehta.loginapp",
+            "certificate_hash": "4fa9baaf160309acb716d15a0f787785c95f115f"
+          }
+        },
+        {
+          "client_id": "1042378229871-rm3nub0q36j8po4kl5iu2tc5mmqnlvud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgFNUL3l1pUN_I9yrfXo2M9ljID_ridc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042378229871-rm3nub0q36j8po4kl5iu2tc5mmqnlvud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
